@@ -1,0 +1,1 @@
+cat auth.log | nc -q 0 localhost 50000
